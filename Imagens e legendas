@@ -1,0 +1,28 @@
+
+     <h2> Logo em dimensões de Pixels </h2>
+     <img src="./src/imagens/Logo_Senai.png" alt="Logo Senai" width="300px" height="100px"> 
+
+     <br><br><br>
+
+     <h2> Logo em dimensões de Porcentagem </h2>
+     <img src="./src/imagens/Logo_Senai.png" alt="Logo Senai" width="30%" height="10%"> 
+
+     <br><br><br>
+
+     <h2> Logo em dimensões de ViewPort Height </h2>
+     <img src="./src/imagens/Logo_Senai.png" alt="Logo Senai" height="50vh"> 
+
+     <br><br><br>
+
+     <h2> Logo em dimensões de ViewPort Width </h2>
+     <img src="./src/imagens/Logo_Senai.png" alt="Logo Senai" width="1000vw"> 
+
+     <br><br><br>
+
+     <h1>Legendas de imagens</h1>
+     <figure>
+        <img src="./src/imagens/Logo_Senai.png" alt="Logo Senai" width="1000vw"> 
+        <figcaption style="font-size: 30px;">Logo Senai</figcaption>
+     </figure>
+
+
